@@ -1,0 +1,1 @@
+A interface principal é servida pelo próprio src/server.js. Este ficheiro existe apenas para manter a pasta no GitHub quando o frontend ainda não tem assets separados.\n
